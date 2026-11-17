@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="-1jH({n~VLEutJL$+O}2" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="^~FV,*xq5rM]QM,1j6Uv"><value name="text"><shadow type="text" id="rS4=lE^twwOc0];XNz}Z"><field name="TEXT">Nadir</field></shadow></value></block></statement></block></xml>
